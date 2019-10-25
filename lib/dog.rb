@@ -1,3 +1,5 @@
+class = dog
+  
 fido = dog.new("fido")
 
 fido.name 
