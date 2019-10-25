@@ -1,1 +1,1 @@
-fido = 
+fido = dog.new(fido)
